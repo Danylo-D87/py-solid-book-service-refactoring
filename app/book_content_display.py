@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from book import Book
+from app.book import Book
 
 
 class BookContentDisplay(ABC):
